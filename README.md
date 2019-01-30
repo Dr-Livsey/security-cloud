@@ -1,2 +1,2 @@
 # security-cloud
-Защищенное облачное хранилище, развертываемое на не доверенных серверах
+Secure cloud storage deployed to non-trusted servers
